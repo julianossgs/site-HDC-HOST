@@ -6,3 +6,10 @@ Desenvolvido em Html 5 e Css 3.
 * Seção de planos e preços.
 * Seção para consulta de domínios.
 * Seção para contato com a empresa.
+
+### Linguagens usadas no projeto:
+* Html 5
+* Css 3
+
+#### Contribuidor principal:
+https://github.com/julianossgs/julianossgs.github.io
